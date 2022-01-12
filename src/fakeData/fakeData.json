@@ -8,99 +8,99 @@
   }, {
     "id": 2,
     "name": "Karim Benzema",
-    "country": "France",
+    "country": "French",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9WL7iME57T8yevHGH0uN5xm32cptp9PVkCfLM11u7qvX_Q2MlELTkdhouWOmIoY_2t1c&usqp=CAU",
     "salary": 18,
     "position": "Forward"
   }, {
     "id": 3,
-    "name": "Curcio",
-    "country": "United States",
-    "img": "Female",
-    "salary": 52,
+    "name": "Eden Hazard",
+    "country": "Belgian",
+    "img": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg1NzcwMjM4OTc1OTQ0MDg0/imago1008077073h.jpg",
+    "salary": 22,
     "position": "Forward"
   }, {
     "id": 4,
-    "name": "Calv",
-    "country": "China",
-    "img": "Male",
+    "name": "Gareth Bale",
+    "country": "welsh ",
+    "img": "https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blte285f4f6a0ab11e5/60db22840bc1b20fa6b75583/f28815e855b25d0a571951f479599443f4d60330.jpg?auto=webp&fit=crop&format=jpg&quality=100",
     "salary": 20,
     "position": "Forward"
   }, {
     "id": 5,
-    "name": "Anallese",
-    "country": "Sweden",
-    "img": "Bigender",
-    "salary": 33,
-    "position": "Forward"
+    "name": "Marcelo Vieira",
+    "country": "Brazil",
+    "img": "https://cdn.vox-cdn.com/thumbor/9sga30v8dUvSiPaU_PzSpvn41_A=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19618793/1200810642.jpg.jpg",
+    "salary": 13,
+    "position": "Defender"
   }, {
     "id": 6,
-    "name": "Sabina",
-    "country": "Canada",
-    "img": "Male",
-    "salary": 84,
-    "position": "Forward"
+    "name": "Ferland Mendy",
+    "country": "French",
+    "img": "https://icdn.caughtoffside.com/wp-content/uploads/2021/04/ferland-mendy.jpg",
+    "salary": 4,
+    "position": "Defender"
   }, {
     "id": 7,
-    "name": "Elberta",
-    "country": "Philippines",
-    "img": "Female",
-    "salary": 91,
+    "name": "Mariano Diaz",
+    "country": "Spain",
+    "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1538x383:1540x381)/origin-imgresizer.eurosport.com/2020/07/28/2856810-58882208-2560-1440.jpg",
+    "salary": 9,
     "position": "Forward"
   }, {
     "id": 8,
-    "name": "Bartram",
-    "country": "United States",
-    "img": "Male",
-    "salary": 23,
-    "position": "Forward"
+    "name": "Andriy Lunin",
+    "country": "Ukrainian ",
+    "img": "https://images.squarespace-cdn.com/content/v1/593614a03e00beb2f0d520ad/1523631165468-MH83JDT1TLBK0WV4C09D/lunin-12-aprile.jpg?format=1000w",
+    "salary": 3,
+    "position": "Goalkeeper"
   }, {
     "id": 9,
-    "name": "Jerrold",
-    "country": "Tunisia",
-    "img": "Bigender",
-    "salary": 22,
-    "position": "Forward"
+    "name": "Luka Modrić",
+    "country": "Croatian ",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ISL-HRV_%287%29.jpg",
+    "salary": 10,
+    "position": "Midfielder"
   }, {
     "id": 10,
-    "name": "Anni",
-    "country": "Netherlands",
-    "img": "Male",
+    "name": "Toni Kroos",
+    "country": "German",
+    "img": "https://cdn.vox-cdn.com/thumbor/RYzbA_LWhEJ7fPiL2sADTUoyvnA=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22690296/1326136976.jpg",
     "salary": 11,
     "position": "Forward"
   }, {
     "id": 11,
-    "name": "Broddy",
-    "country": "Indonesia",
-    "img": "Male",
-    "salary": 75,
-    "position": "Forward"
+    "name": "Isco",
+    "country": "Spain",
+    "img": "https://cdn.vox-cdn.com/thumbor/F0o8W1AsaLi9wrkzAL468NqQoZM=/0x0:2589x3000/1200x800/filters:focal(1071x550:1485x964)/cdn.vox-cdn.com/uploads/chorus_image/image/69539687/1319591665.0.jpg",
+    "salary": 7,
+    "position": "Midfielder"
   }, {
     "id": 12,
-    "name": "Alica",
-    "country": "Portugal",
-    "img": "Male",
+    "name": "Thibaut Courtois",
+    "country": "Belgium",
+    "img": "https://cdn.theathletic.com/app/uploads/2021/12/10072709/THIBAUT-COURTOIS-REAL-MADRID-scaled-e1639139242232-1024x682.jpg",
     "salary": 9,
-    "position": "Forward"
+    "position": "Goalkeeper"
   }, {
     "id": 13,
-    "name": "Torey",
-    "country": "China",
-    "img": "Female",
-    "salary": 2,
+    "name": "Marco Asensio",
+    "country": "Spain",
+    "img": "https://cdn.vox-cdn.com/thumbor/eXojJfHI1DBAk9XwmkSOwHeaUYY=/0x0:2681x3575/1400x933/filters:focal(1056x577:1484x1005):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69980453/1235539761.0.jpg",
+    "salary": 6,
     "position": "Forward"
   }, {
     "id": 14,
-    "name": "Lydie",
+    "name": "Casemiro",
     "country": "China",
-    "img": "Female",
-    "salary": 80,
-    "position": "Forward"
+    "img": "https://phantom-marca.unidadeditorial.es/d4aac18c21b7b01ac0eb22caabff8223/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/09/16364565279343.jpg",
+    "salary": 14,
+    "position": "Midfielder"
   }, {
     "id": 15,
-    "name": "Broderick",
-    "country": "Philippines",
-    "img": "Female",
-    "salary": 96,
-    "position": "Forward"
+    "name": "Dani Carvajal",
+    "country": "Spain",
+    "img": "https://phantom-marca.unidadeditorial.es/332af58db82d7f3b7e23e661cf7015cf/resize/1320/f/jpg/assets/multimedia/imagenes/2021/02/15/16134007559391.jpg",
+    "salary": 6,
+    "position": "Defender"
   }]
