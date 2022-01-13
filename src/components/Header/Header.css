@@ -1,0 +1,10 @@
+.main-header-div{
+    background-image: url('../../images/real-madrid.jpg');
+    height: 300px;
+    background-position: cover;
+}
+.main-header-div{
+    color: white;
+    font-weight: bold;
+    font-size: 52px;
+}

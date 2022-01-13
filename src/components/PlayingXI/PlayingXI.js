@@ -1,10 +1,13 @@
 import React from 'react';
 
 const PlayingXI = (props) => {
-    console.log(props);
+    const { name, salary, position } = props.getPlayer;
+
     return (
-        <div>
-            <h1>this is playingXi</h1>
+        <div className="d-flex justify-content-between bg-danger p-2 border border-dark border-3 mt-1 mb-1 text-light ">
+            <div><p>{name}</p></div>
+            <div><p className='text-warning'>{position}</p></div>
+            <div><p>{salary} Million</p></div>
         </div>
     );
 };

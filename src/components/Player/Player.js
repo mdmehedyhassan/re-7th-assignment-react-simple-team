@@ -20,7 +20,7 @@ const Player = ({ player, playerAddHandler }) => {
                 <div className="m-2 ">
                 <h4>Name: {name}</h4>
                 <h6>Country: {country}</h6>
-                <h5>Salary: {salary}</h5>
+                <h5>Salary: {salary} Million</h5>
                 <h6>position: {position}</h6>
                 <button onClick={()=> playerAddHandler(player)} className="btn btn-success">Add player</button>
                 </div>
