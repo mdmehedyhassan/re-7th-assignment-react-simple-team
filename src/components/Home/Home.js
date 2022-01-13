@@ -56,6 +56,7 @@ const Home = () => {
                     </div>
                 </div>
                 <button onClick={()=> window.location.reload() || localStorage.setItem('players', JSON.stringify([]))} className="btn btn-success mt-5">Make new team</button>
+                <a className="ms-5" href="https://github.com/mdmehedyhassan/re-7th-assignment-react-simple-team"><button className="btn btn-info mt-5">GitHub Code</button></a>
             </div>
         </div>
     );
